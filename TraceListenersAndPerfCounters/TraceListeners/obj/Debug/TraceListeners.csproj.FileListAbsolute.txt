@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\TraceListeners.exe.config
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\TraceListeners.exe
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\TraceListeners.pdb
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\obj\Debug\TraceListeners.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\obj\Debug\TraceListeners.exe
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\obj\Debug\TraceListeners.pdb
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+c:\users\student\documents\visual studio 2013\Projects\TraceListenersAndPerfCounters\TraceListeners\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml

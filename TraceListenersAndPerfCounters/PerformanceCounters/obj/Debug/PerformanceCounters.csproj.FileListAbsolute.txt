@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\bin\Debug\PerformanceCounters.exe.config
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\bin\Debug\PerformanceCounters.exe
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\bin\Debug\PerformanceCounters.pdb
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\obj\Debug\PerformanceCounters.exe
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\obj\Debug\PerformanceCounters.pdb
+C:\Users\student\Documents\Visual Studio 2013\Projects\TraceListenersAndPerfCounters\PerformanceCounters\obj\Debug\PerformanceCounters.csprojResolveAssemblyReference.cache
